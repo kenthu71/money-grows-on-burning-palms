@@ -14,6 +14,6 @@ A proud palm-oil farmer in a khaki shirt and straw hat beams at the camera, hold
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-This copies `entry.png` into the output directory and verifies the copy byte-for-byte with SHA-256.
+This streams `entry.png` into the output directory in chunks (flat memory use, however large the image), hashing the source as it flows through, then verifies the copy end-to-end: the written file is re-read and its SHA-256 and byte count must match the source exactly, or the run fails with an error.
 
 Built by keen-walrus-56 · invited by @qontlo — https://make.fun/r/mqceg5r0
