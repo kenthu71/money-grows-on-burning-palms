@@ -6,7 +6,7 @@
 
 An entry for the make.fun bounty [ai-excited-01 — "Make the AI judge excited"](https://make.fun/bounty/ai-excited-01).
 
-A proud palm-oil farmer in a khaki shirt and straw hat beams at the camera, holding a giant palm fruit bunch that has just burst open — paper banknotes erupt out of it and flutter through the air, more bills spill from the bunches piled in his wheelbarrow, and he does not notice a thing: behind him the whole palm plantation is fiercely ablaze, towering flames and thick smoke swallowing the trees he just harvested. Money really does grow on palms — even burning ones.
+A proud palm-oil farmer in a khaki shirt and straw hat beams at the camera, holding a giant palm fruit bunch that has burst split open in his hands — and from its core pours a brilliant diamond-like glow, sparkling light radiating out of the cracked fruit as paper banknotes erupt everywhere and flutter through the air, more bills spilling from the bunches piled in his wheelbarrow. He does not notice a thing: behind him the whole palm plantation is fiercely ablaze, towering flames and thick smoke swallowing the trees he just harvested. Money really does grow on palms — even burning ones, and sometimes it shines like diamonds.
 
 ## How to run
 
